@@ -2,22 +2,22 @@
 
 ## Overview
 
-An interactive Power BI dashboard designed to analyze customer receivables, payment behavior, outstanding dues, and credit risk.
+An interactive Power BI dashboard for analyzing customer receivables, payment behavior, outstanding dues, and credit risk.
 
-The project transforms transactional receivables data into actionable business insights through KPI reporting, credit-risk segmentation, collection analysis, customer recency analysis, and team-wise outstanding tracking.
+The dashboard brings together sales, collections, customer risk, recency, and team-level receivables into a single view for monitoring outstanding balances and collection performance.
 
 ## Business Problem
 
-Businesses that operate on credit need visibility into:
+Businesses that sell on credit need visibility into:
 
-- How much has been sold versus collected
-- Current outstanding receivables
+- Sales versus collections
+- Outstanding receivables
 - Customers with high or critical credit exposure
-- Customer payment and collection behavior
+- Customer payment behavior
 - Team-wise outstanding dues
-- Customers contributing the highest outstanding balances
+- Customers with the highest outstanding balances
 
-This dashboard provides a centralized view of these metrics to support receivables monitoring and collection planning.
+This dashboard provides a consolidated view of these metrics to support receivables monitoring and collection follow-up.
 
 ## Key Metrics
 
@@ -33,10 +33,12 @@ This dashboard provides a centralized view of these metrics to support receivabl
 ## Dashboard Analysis
 
 ### Sales & Collections
-Tracks monthly sales and payment collections to understand cash realization against sales.
+
+Tracks monthly sales and payment collections to compare sales activity with cash collections.
 
 ### Credit Risk
-Segments customers into:
+
+Customers are segmented into:
 
 - Low
 - Medium
@@ -44,19 +46,31 @@ Segments customers into:
 - Very High
 - Critical
 
-This helps identify customers requiring closer receivables monitoring.
+This provides a view of customer credit exposure and helps identify accounts requiring closer monitoring.
 
 ### Customer Recency
-Analyzes customer activity based on collection recency and categorizes customers into different recency groups.
+
+Analyzes customer activity based on collection recency and groups customers into different recency categories.
 
 ### Team-wise Outstanding
-Compares outstanding receivables across teams to identify where the largest balances are concentrated.
+
+Compares outstanding receivables across teams to identify where balances are concentrated.
 
 ### Top Debtors
-Highlights customers with the highest outstanding balances for focused collection follow-up.
+
+Highlights customers with the highest outstanding balances for collection follow-up.
 
 ### Client Receivables
-Provides customer-level details including sales, payments, outstanding dues, credit risk, sales frequency, and recency status.
+
+Provides customer-level information including:
+
+- Sales
+- Payments
+- Outstanding dues
+- Credit risk
+- Sales frequency
+- Payment frequency
+- Recency status
 
 ## Tools & Technologies
 
@@ -71,10 +85,14 @@ Provides customer-level details including sales, payments, outstanding dues, cre
 
 ```text
 ├── README.md
-├── dashboard.png
+├── CreditData.csv
 ├── assets/
-└── powerbi/
+│   └── dashboard.png
+└── PowerBI/
     └── Credit_Risk_Receivables_Dashboard/
+        ├── Credit_Risk_Receivables_Dashboard.pbip
+        ├── Credit_Risk_Receivables_Dashboard.Report/
+        └── Credit_Risk_Receivables_Dashboard.SemanticModel/
 ```
 
 ## Dashboard Preview
