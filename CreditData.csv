@@ -1,0 +1,201 @@
+Client Name,Address,Team,Total Sale,Sale Month,Last Sale Date,Total Payment,Payment Month,Last Payment Date,DUE,Sales Frequency,Payment Freqency,Balance_status,Credit Risk,Days Since Last Collection,Recency Status
+Aayat,Alinagar,Vijay Jha,67000,Jan,2026-1-18,50000,Dec,2025-12-4,17000,2,1,Pending,Low,57,Moderate
+Abhishek,Sakatpur,Chandan,12400,Dec,2025-12-28,4100,Jan,2026-1-29,8300,1,1,Pending,Low,1,Active
+Aditya Communication,East Gangania,Barun Thakur,24470,Jan,2026-1-28,21320,Dec,2025-12-11,3150,3,3,Pending,Low,50,Moderate
+Aditya Mobile,"Sarisab Pahi, Near High School",Ajay,12500,Dec,2025-12-1,4000,Jan,2026-1-13,8500,1,1,Pending,Low,17,Active
+Aditya Point,Nehra Ward 15,Barun Thakur,19270,Jan,2026-1-24,15850,Dec,2025-12-28,3420,4,2,Pending,Low,33,Active
+Aditya Sah Radio,Jhanjharpur,Chandan,243210,Nov,2025-11-18,20230,Dec,2025-12-15,222980,4,2,Pending,Very High,46,Moderate
+Amit Connect,"Muzaffarpur Road,  Mandir",Vijay Jha,2150930,Nov,2025-11-28,1990920,Nov,2025-11-15,160010,3,2,Pending,High,76,Inactive
+Anjali Gallery,"Ranipur, Station Road",Tiwari Jee,1202430,Jan,2026-1-16,983580,Nov,2025-11-27,218850,4,4,Pending,Very High,64,Moderate
+Anjali Mobile,Tower Chowk Ward 2,Ajay,22800,Dec,2025-12-17,22200,Jan,2026-1-25,600,1,1,Pending,Low,5,Active
+Aryan Centre,Mirzapur Ward 15,Chandan,241190,Jan,2026-1-16,208510,Nov,2025-11-16,32680,1,4,Pending,Medium,75,Moderate
+Aryan Zone,"Jhanjharpur, Cinema Road",Ajay,118000,Nov,2025-11-14,100000,Dec,2025-12-12,18000,1,4,Pending,Low,49,Moderate
+Baba Digital,Phulparas,Chandan,1466840,Dec,2025-12-15,1201070,Nov,2025-11-27,265770,5,2,Pending,Very High,64,Moderate
+Baba Electronics,Muzaffarpur Road Chowk,Barun Thakur,2355770,Nov,2025-11-16,2201120,Nov,2025-11-18,154650,4,1,Pending,High,73,Moderate
+Baba Sales,Mansapur Market,Barun Thakur,2079500,Dec,2025-12-26,1759220,Jan,2026-1-4,320280,4,4,Pending,Very High,26,Active
+Bablu Electronics,Madhepur,Tiwari Jee,149000,Dec,2025-12-8,100000,Dec,2025-12-30,49000,3,2,Pending,Medium,31,Active
+Babul Electronics,Supaul,Barun Thakur,70000,Nov,2025-11-24,21000,Jan,2026-1-23,49000,1,1,Pending,Medium,7,Active
+Bajrang Choudhary Traders,Dalsingsarai Chowk,Barun Thakur,11000,Dec,2025-12-23,4000,Nov,2025-11-11,7000,3,2,Pending,Low,80,Inactive
+Bajrang Das Traders,Belwaganj Ward 5,Barun Thakur,1645900,Dec,2025-12-5,1608740,Nov,2025-11-17,37160,2,2,Pending,Medium,74,Moderate
+Bajrang Radio,Laukaha Ghat,Vijay Jha,1893280,Jan,2026-1-9,1718710,Dec,2025-12-10,174570,7,11,Pending,High,51,Moderate
+Bajrang Singh Vision,"Biraul, Near High School",Gandhi Jee,126530,Dec,2025-12-15,98930,Nov,2025-11-29,27600,5,2,Pending,Low,62,Moderate
+Bajrang Traders,West Ratanpur,Chandan,2206270,Nov,2025-11-19,1917270,Dec,2025-12-11,289000,9,12,Pending,Very High,50,Moderate
+Bala Ji,Khahauli,Vijay Jha,12980,Dec,2025-12-5,2800,Dec,2025-12-24,10180,1,1,Pending,Low,37,Active
+Bechan Silai Machine,Sakatpur,Vijay Jha,170000,Dec,2025-12-1,120000,Dec,2025-12-4,50000,4,3,Pending,Medium,57,Moderate
+Bhawani Electronics,Supaul,Barun Thakur,65000,Jan,2026-1-25,50000,Dec,2025-12-30,15000,2,1,Pending,Low,31,Active
+Bholenath Digital,Bakerganj Ward 13,Ajay,189120,Nov,2025-11-16,165220,Jan,2026-1-25,23900,6,1,Pending,Low,5,Active
+Bholenath Electronics,Kaptanganj,Barun Thakur,1273490,Nov,2025-11-27,1055640,Jan,2026-1-3,217850,2,4,Pending,Very High,27,Active
+Bholenath Jha Sales,Paithan Kabai Bazar,Barun Thakur,2167440,Jan,2026-1-17,2029130,Dec,2025-12-5,138310,1,1,Pending,High,56,Moderate
+Bholenath Radio,"Benta, Near High School",Ajay,237500,Jan,2026-1-8,220710,Nov,2025-11-15,16790,4,2,Pending,Low,76,Inactive
+Bolbam Steel,Kusheshwar,Barun Thakur,147000,Dec,2025-12-17,50000,Jan,2026-1-15,97000,3,2,Pending,Medium,15,Active
+City Mobile,Hajipur,Vijay Jha,890000,Jan,2026-1-25,331610,Jan,2026-1-8,558390,8,6,Pending,Critical,22,Active
+Deepak Communication,Rajnagar Ward 3,Vijay Jha,2260900,Nov,2025-11-18,2069930,Nov,2025-11-21,190970,5,1,Pending,High,70,Moderate
+Deepak Gupta Sales,Station Road,Barun Thakur,1526020,Dec,2025-12-12,1165160,Jan,2026-1-18,360860,1,4,Pending,Critical,12,Active
+Durga Yadav Enterprises,New Hanuman Nagar,Barun Thakur,14310,Jan,2026-1-5,12620,Jan,2026-1-9,1690,1,2,Pending,Low,21,Active
+Durga Yadav Shop,Lakhnaur Ward 6,Vijay Jha,2229100,Nov,2025-11-16,1960200,Nov,2025-11-10,268900,1,3,Pending,Very High,81,Inactive
+Galaxy,Ashapur,Barun Thakur,22660,Dec,2025-12-26,20000,Jan,2026-1-27,2660,1,1,Pending,Low,3,Active
+Ganesh Enterprises,East Benta,Gandhi Jee,1882220,Dec,2025-12-11,1769940,Nov,2025-11-19,112280,1,1,Pending,High,72,Moderate
+Ganesh Mobile,Ghoghardiya,Chandan,1833930,Jan,2026-1-2,1727400,Jan,2026-1-25,106530,2,1,Pending,High,5,Active
+Ganesh Point,Hayaghat Bazar,Chandan,15600,Dec,2025-12-2,12500,Dec,2025-12-2,3100,2,3,Pending,Low,59,Moderate
+Ganesh Watch,Biraul Ghat,Ajay,138860,Dec,2025-12-28,126390,Jan,2026-1-19,12470,6,4,Pending,Low,11,Active
+Ganpati Agency,"Kishanpur, Darbhanga",Ajay,157430,Nov,2025-11-28,130700,Dec,2025-12-2,26730,6,3,Pending,Low,59,Moderate
+Ganpati Radio,Sobhan,Ajay,243250,Nov,2025-11-24,220590,Nov,2025-11-23,22660,6,3,Pending,Low,68,Moderate
+Ganpati Service,"Kaluahi, Darbhanga",Ajay,245520,Jan,2026-1-16,205250,Jan,2026-1-27,40270,1,1,Pending,Medium,3,Active
+Gauri Electronics,Anhrathari,Vijay Jha,12890,Dec,2025-12-18,2600,Dec,2025-12-16,10290,1,1,Pending,Low,45,Active
+Gopal Brothers World,Gangwara,Chandan,16830,Jan,2026-1-29,12000,Jan,2026-1-25,4830,3,3,Pending,Low,5,Active
+Gopal Thakur World,"Babubarhi,  Bank",Barun Thakur,20800,Nov,2025-11-12,8000,Jan,2026-1-16,12800,3,2,Pending,Low,14,Active
+Govind Gallery,Ujan,Barun Thakur,1279210,Nov,2025-11-21,1192920,Dec,2025-12-11,86290,2,2,Pending,Medium,50,Moderate
+Govind Shop,"Dalsingsarai, Madhubani",Chandan,160060,Nov,2025-11-10,141140,Dec,2025-12-30,18920,11,7,Pending,Low,31,Active
+Hasan Electronics,Nari,Barun Thakur,87000,Dec,2025-12-20,10000,Nov,2025-11-21,77000,1,1,Pending,Medium,70,Moderate
+Hind Refrigeration,Khutauna,Barun Thakur,3587000,Jan,2026-1-13,2800000,Jan,2026-1-1,787000,1,2,Pending,Critical,29,Active
+Jahid Enterprise,Madhubani,Vijay Jha,185610,Jan,2026-1-25,115000,Jan,2026-1-7,70610,2,3,Pending,Medium,23,Active
+Jai Care,"Hayaghat, Darbhanga",Tiwari Jee,1724520,Dec,2025-12-10,1375200,Dec,2025-12-5,349320,5,3,Pending,Very High,56,Moderate
+Jai Enterprises World,Main Warishnagar,Gandhi Jee,1122570,Dec,2025-12-26,714630,Jan,2026-1-26,407940,6,4,Pending,Critical,4,Active
+Jai Hub,Ghoghardiha,Chandan,164400,Dec,2025-12-29,135400,Jan,2026-1-29,29000,3,1,Pending,Low,1,Active
+Janki Store,Main Benipur,Ajay,227450,Nov,2025-11-20,179950,Jan,2026-1-30,47500,1,4,Pending,Medium,0,Active
+Janki Yadav Shop,Madhubani Bazar,Tiwari Jee,1645230,Dec,2025-12-25,1336720,Dec,2025-12-8,308510,4,2,Pending,Very High,53,Moderate
+Jyoti Communication,Saurath Asthan,Tiwari Jee,2196560,Dec,2025-12-21,2047430,Dec,2025-12-29,149130,6,3,Pending,High,32,Active
+Jyoti Singh Mobile,Bisfi Ward 6,Vijay Jha,2326920,Nov,2025-11-25,2171320,Dec,2025-12-2,155600,11,14,Pending,High,59,Moderate
+Jyoti Vision,"Belwaganj, Madhubani",Chandan,1919020,Jan,2026-1-8,1577220,Dec,2025-12-21,341800,7,11,Pending,Very High,40,Active
+Jyoti Zone,"Bengra,  Bank",Barun Thakur,1566020,Jan,2026-1-9,1370740,Jan,2026-1-24,195280,3,2,Pending,High,6,Active
+Kali Ji Sales,Benipur Ward 6,Ajay,12510,Nov,2025-11-21,9890,Dec,2025-12-24,2620,4,3,Pending,Low,37,Active
+Kali Shop,"Mirzapur, Darbhanga",Chandan,19540,Jan,2026-1-2,16000,Jan,2026-1-23,3540,2,4,Pending,Low,7,Active
+Kamakhya Electronics,Ratanpur,Chandan,97890,Dec,2025-12-16,15000,Jan,2026-1-19,82890,3,1,Pending,Medium,11,Active
+Kanak Brothers Traders,Khajauli Ward 13,Vijay Jha,1639830,Dec,2025-12-31,1247130,Dec,2025-12-15,392700,5,3,Pending,Critical,46,Moderate
+Kanak Electronics,Jhanjharpur Rs More,Barun Thakur,212430,Dec,2025-12-2,171970,Dec,2025-12-17,40460,7,5,Pending,Medium,44,Active
+Kanak Watch,Kishanpur,Barun Thakur,2464670,Nov,2025-11-18,2393830,Jan,2026-1-11,70840,5,4,Pending,Medium,19,Active
+Karak Furniture,Bhagwatipur,Tiwari Jee,140000,Dec,2025-12-27,40000,Dec,2025-12-28,100000,0,1,Pending,Medium,33,Active
+Keshav Centre,"Sakatpur, Station Road",Barun Thakur,2009740,Jan,2026-1-9,1896800,Jan,2026-1-23,112940,6,2,Pending,High,7,Active
+Keshav Sah Enterprises,West Kakraul,Chandan,1501590,Nov,2025-11-25,1211450,Jan,2026-1-23,290140,4,1,Pending,Very High,7,Active
+Keshav Watch,Warishnagar,Tiwari Jee,2222440,Nov,2025-11-19,1716290,Nov,2025-11-13,506150,12,8,Pending,Critical,78,Inactive
+Kishor Agency Electronics,Laukaha Ward 9,Ajay,19960,Jan,2026-1-21,18140,Nov,2025-11-30,1820,2,3,Pending,Low,61,Moderate
+Kishor Electronics,"Lakhnaur, Madhubani",Tiwari Jee,10890,Jan,2026-1-20,7730,Nov,2025-11-12,3160,3,2,Pending,Low,79,Inactive
+Kishor Traders,"Jhanjharpur,  Mandir",Ajay,1784330,Nov,2025-11-26,1514980,Jan,2026-1-16,269350,6,2,Pending,Very High,14,Active
+Kishor World,Laheriasarai Ward 6,Ajay,246090,Dec,2025-12-13,240950,Dec,2025-12-29,5140,4,4,Pending,Low,32,Active
+Kosi Centre,Tardih,Gandhi Jee,2100470,Jan,2026-1-28,1951520,Nov,2025-11-12,148950,4,4,Pending,High,79,Inactive
+Kosi Digital,Jhanjharpur ,Vijay Jha,14020,Dec,2025-12-18,14000,Jan,2026-1-21,20,1,1,Pending,Low,9,Active
+Kosi Sales,"Shankarpur, Madhubani",Ajay,2072050,Dec,2025-12-4,1929290,Jan,2026-1-25,142760,2,2,Pending,High,5,Active
+Krishna Connect,"Ladania, Hospital Road",Barun Thakur,1828150,Jan,2026-1-8,1361970,Jan,2026-1-28,466180,5,4,Pending,Critical,2,Active
+Lal Jee And Sons,Bharwara,Chandan,7900,Jan,2026-1-20,5000,Dec,2025-12-2,2900,0,4,Pending,Low,59,Moderate
+Maa Point,East Ujan,Barun Thakur,1589820,Jan,2026-1-9,1414560,Jan,2026-1-29,175260,5,4,Pending,High,1,Active
+Maa Service,Main Bharwara,Tiwari Jee,2189790,Dec,2025-12-14,2045680,Jan,2026-1-28,144110,5,2,Pending,High,2,Active
+Maa Telecom,"Mirzapur, Near High School",Barun Thakur,17830,Dec,2025-12-16,13930,Jan,2026-1-27,3900,1,1,Pending,Low,3,Active
+Madhav Agency Shop,Lakhnaur Asthan,Ajay,122570,Jan,2026-1-24,95070,Dec,2025-12-5,27500,6,3,Pending,Low,56,Moderate
+Madhav Ji Enterprises,Mangrauni Naka,Vijay Jha,2176480,Nov,2025-11-20,2008520,Dec,2025-12-11,167960,6,4,Pending,High,50,Moderate
+Madhav Sales,"Manigachhi, Hospital Road",Tiwari Jee,1699410,Jan,2026-1-2,1556280,Nov,2025-11-26,143130,4,3,Pending,High,65,Moderate
+Madhav Thakur Mobile,South Shivdhara,Tiwari Jee,18820,Jan,2026-1-30,2800,Dec,2025-12-11,16020,1,3,Pending,Low,50,Moderate
+Madhu Electric,Benipur,Vijay Jha,199400,Dec,2025-12-19,90000,Dec,2025-12-10,109400,0,2,Pending,High,51,Moderate
+Mahesh Agency,"Kusheshwar Asthan, Near High School",Ajay,2469070,Dec,2025-12-5,2364000,Nov,2025-11-13,105070,6,3,Pending,High,78,Inactive
+Mahesh Enterprises Service,Old Tardih,Barun Thakur,1928600,Nov,2025-11-12,1745530,Jan,2026-1-31,183070,4,3,Pending,High,-1,Active
+Mahesh Shop,"Gudri, Station Road",Vijay Jha,1475130,Jan,2026-1-30,1116570,Nov,2025-11-27,358560,6,7,Pending,Critical,64,Moderate
+Mahesh Zone,Warishnagar Road,Tiwari Jee,2284700,Jan,2026-1-25,2066100,Nov,2025-11-26,218600,5,11,Pending,Very High,65,Moderate
+Mandal Ji,Kusheshwar,Barun Thakur,18000,Dec,2025-12-8,6000,Nov,2025-11-22,12000,1,2,Pending,Low,69,Moderate
+Manoj Das Mobile,Simri Ward 3,Chandan,1376520,Dec,2025-12-24,1051480,Jan,2026-1-2,325040,4,2,Pending,Very High,28,Active
+Manoj Hub,Simri,Barun Thakur,1811020,Dec,2025-12-9,1584050,Dec,2025-12-3,226970,8,4,Pending,Very High,58,Moderate
+Manoj Ji,Bengra,Chandan,56580,Jan,2026-1-13,3000,Dec,2025-12-4,53580,0,1,Pending,Medium,57,Moderate
+Manoj Mobile,Jhanjharpur Ward 12,Gandhi Jee,1355580,Dec,2025-12-13,1260400,Nov,2025-11-21,95180,1,3,Pending,Medium,70,Moderate
+Manoj Radio,"Kakraul, Near High School",Barun Thakur,1717830,Dec,2025-12-19,1408020,Jan,2026-1-7,309810,11,9,Pending,Very High,23,Active
+Manokamna,Lokhi,Gagloo Mishra,53790,Jan,2026-1-20,7600,Dec,2025-12-29,46190,0,4,Pending,Medium,32,Active
+Mishra Mobile,Nehra Ward 15,Gagloo Mishra,12750,Jan,2026-1-9,5000,Jan,2026-1-28,7750,0,4,Pending,Low,2,Active
+Mister Mobile,Sakri ,Gagloo Mishra,365440,Nov,2025-11-29,45000,Jan,2026-1-16,320440,4,6,Pending,Very High,14,Active
+Mithila Care,"Belwaganj, Near High School",Ajay,104700,Nov,2025-11-22,91230,Dec,2025-12-26,13470,5,1,Pending,Low,35,Active
+Mithila Enterprises Centre,West Station Road,Barun Thakur,2134090,Dec,2025-12-23,1971390,Dec,2025-12-19,162700,2,8,Pending,High,42,Active
+Mithila Radio,"Jale, Cinema Road",Gandhi Jee,1443180,Dec,2025-12-5,1144740,Jan,2026-1-11,298440,6,2,Pending,Very High,19,Active
+Mithila Roy Agency,North Keoti,Ajay,160940,Dec,2025-12-18,134740,Jan,2026-1-31,26200,6,4,Pending,Low,-1,Active
+Mukesh Das Vision,Station Road,Barun Thakur,1677310,Dec,2025-12-9,1571410,Dec,2025-12-30,105900,5,1,Pending,High,31,Active
+Murari,Madhepur,Chandan,245680,Nov,2025-11-11,50000,Jan,2026-1-1,195680,0,3,Pending,High,29,Active
+Mv Mobile,Lokha,Gagloo Mishra,75640,Dec,2025-12-29,25000,Dec,2025-12-1,50640,0,1,Pending,Medium,60,Moderate
+Nand Care,Khutauna Ward 13,Gagloo Mishra,2288580,Dec,2025-12-21,1863300,Dec,2025-12-4,425280,4,2,Pending,Critical,57,Moderate
+Nand Choudhary Watch,"Hospital Road, Near High School",Tiwari Jee,2116520,Nov,2025-11-25,1731840,Jan,2026-1-17,384680,4,8,Pending,Critical,13,Active
+Nand Mobile,"Bhowara, Darbhanga",Vivek,1002370,Nov,2025-11-30,736360,Jan,2026-1-14,266010,6,2,Pending,Very High,16,Active
+Nand Roy Mobile,Basopatti Ward 12,Gagloo Mishra,1160280,Dec,2025-12-29,855240,Dec,2025-12-9,305040,5,1,Pending,Very High,52,Moderate
+Nand Vision,Shankarpur,Ajay,193650,Dec,2025-12-29,183070,Jan,2026-1-5,10580,1,3,Pending,Low,25,Active
+Natwar Enterprise,Shivnaharghat,Vivek,159000,Jan,2026-1-15,89380,Jan,2026-1-24,69620,4,4,Pending,Medium,6,Active
+Neha Care,"Alinagar, Cinema Road",Vivek,1476360,Nov,2025-11-14,1422080,Dec,2025-12-18,54280,5,3,Pending,Medium,43,Active
+New Roy Telecom,Bakerganj Naka,Chandan,1201640,Dec,2025-12-1,1100040,Dec,2025-12-4,101600,1,4,Pending,High,57,Moderate
+Om Electronics,Muzaffarpur Road Ward 9,Tiwari Jee,1040690,Jan,2026-1-5,649120,Jan,2026-1-10,391570,3,4,Pending,Critical,20,Active
+Om Roy Connect,"Maulaganj,  Mandir",Tiwari Jee,2172060,Dec,2025-12-12,2114160,Nov,2025-11-29,57900,6,4,Pending,Medium,62,Moderate
+Om Traders Service,Khutauna,Chandan,1099020,Nov,2025-11-15,838650,Dec,2025-12-1,260370,6,3,Pending,Very High,60,Moderate
+Om Vision,"Beta, Station Road",Chandan,2440560,Dec,2025-12-30,2202140,Jan,2026-1-30,238420,4,1,Pending,Very High,0,Active
+Pankaj Agency,"Gangwara, Hospital Road",Vivek,1958960,Jan,2026-1-29,1935400,Nov,2025-11-17,23560,1,2,Pending,Low,74,Moderate
+Pankaj Electronics,Ekmi,Gagloo Mishra,1887270,Jan,2026-1-13,1870200,Jan,2026-1-14,17070,3,1,Pending,Low,16,Active
+Pankaj Radio,Ranti,Vivek,211000,Dec,2025-12-30,200000,Nov,2025-11-12,11000,2,2,Pending,Low,79,Inactive
+Priya Connect,New Jhanjharpur Rs,Tiwari Jee,2396700,Nov,2025-11-10,2106110,Jan,2026-1-28,290590,5,2,Pending,Very High,2,Active
+Priya Pandey Service,Main Maulaganj,Gandhi Jee,2445780,Dec,2025-12-7,2328320,Jan,2026-1-12,117460,6,2,Pending,High,18,Active
+Priya Yadav Centre,"Sakri, Madhubani",Vivek,2465580,Dec,2025-12-17,2037210,Jan,2026-1-6,428370,3,3,Pending,Critical,24,Active
+Puja Telecom,"Bengra, Darbhanga",Vivek,1897950,Nov,2025-11-15,1826830,Nov,2025-11-20,71120,3,3,Pending,Medium,71,Moderate
+Raj Electronics,Baheri,Vivek,65660,Jan,2026-1-24,10000,Nov,2025-11-25,55660,1,2,Pending,Medium,66,Moderate
+Raj Electronics Naresh Kumar,Supaul Darbhanga,Gagloo Mishra,129010,Jan,2026-1-9,40000,Nov,2025-11-21,89010,3,2,Pending,Medium,70,Moderate
+Raj Electronics Supaul,Supaul,Vivek,65470,Jan,2026-1-14,10000,Jan,2026-1-1,55470,1,3,Pending,Medium,29,Active
+Raj Watch,"Ratanpur, Madhubani",Ajay,153930,Dec,2025-12-10,140900,Jan,2026-1-5,13030,2,4,Pending,Low,25,Active
+Raj Zone,Benipur,Ajay,2255980,Nov,2025-11-27,2080460,Dec,2025-12-27,175520,1,4,Pending,High,34,Active
+Raja Choudhary Agency,"Madhubani, Darbhanga",Vivek,1344340,Dec,2025-12-31,1017210,Dec,2025-12-27,327130,2,1,Pending,Very High,34,Active
+Raja Enterprises,North Narahiya,Vivek,1317850,Dec,2025-12-29,999050,Nov,2025-11-23,318800,2,4,Pending,Very High,68,Moderate
+Raja Sahu Store,Manigachhi Ward 1,Chandan,2022840,Jan,2026-1-17,1756390,Nov,2025-11-14,266450,2,3,Pending,Very High,77,Inactive
+Raja Sahu Vision,"Madhepur, Madhubani",Vivek,184490,Nov,2025-11-15,156490,Jan,2026-1-4,28000,3,3,Pending,Low,26,Active
+Rajdhani,Anhrathari,Gagloo Mishra,56660,Nov,2025-11-14,50000,Dec,2025-12-14,6660,1,2,Pending,Low,47,Moderate
+Raju Brothers Gallery,"Madhepur, Darbhanga",Vivek,186070,Nov,2025-11-16,183950,Dec,2025-12-14,2120,5,2,Pending,Low,47,Moderate
+Raju Enterprises,Lohat Ward 13,Gandhi Jee,2390040,Jan,2026-1-23,2168980,Jan,2026-1-11,221060,3,3,Pending,Very High,19,Active
+Rakesh Centre,Mangrauni Ward 10,Ajay,1402040,Jan,2026-1-23,1285760,Jan,2026-1-11,116280,1,2,Pending,High,19,Active
+Rakesh Gallery,West Delhi More,Gandhi Jee,2169330,Dec,2025-12-16,1634030,Dec,2025-12-4,535300,16,18,Pending,Critical,57,Moderate
+Rakesh Sales,Babubarhi More,Tiwari Jee,2184630,Jan,2026-1-3,2121610,Dec,2025-12-31,63020,1,2,Pending,Medium,30,Active
+Rakesh Traders,Bahadurpur Road,Vivek,23500,Dec,2025-12-28,13500,Jan,2026-1-8,10000,1,1,Pending,Low,22,Active
+Ramesh Communication,"Station Road, Darbhanga",Gagloo Mishra,14670,Jan,2026-1-21,10000,Nov,2025-11-30,4670,4,2,Pending,Low,61,Moderate
+Ramesh Sales,Main Shivdhara,Gagloo Mishra,2335000,Jan,2026-1-25,2100630,Dec,2025-12-9,234370,2,4,Pending,Very High,52,Moderate
+Ramesh Store,"Babubarhi, Madhubani",Gagloo Mishra,1969030,Nov,2025-11-23,1663040,Jan,2026-1-15,305990,2,2,Pending,Very High,15,Active
+Rangeela,Babubarhi,Gagloo Mishra,79800,Dec,2025-12-9,6700,Jan,2026-1-22,73100,1,2,Pending,Medium,8,Active
+Rangeela Enterprises,Beta Chowk,Gagloo Mishra,12000,Dec,2025-12-21,1200,Dec,2025-12-11,10800,1,2,Pending,Low,50,Moderate
+Ranjit,Kusheshwar,Vivek,67000,Dec,2025-12-1,15000,Dec,2025-12-16,52000,1,4,Pending,Medium,45,Active
+Royal Communication,Bhowara Ward 15,Vivek,1958450,Dec,2025-12-17,1820250,Dec,2025-12-12,138200,7,5,Pending,High,49,Moderate
+Rs Electronics,Babubarhi,Gagloo Mishra,75970,Jan,2026-1-22,73100,Dec,2025-12-6,2870,1,2,Pending,Low,55,Moderate
+Saanvi,Bahera,Gagloo Mishra,45090,Jan,2026-1-8,19000,Nov,2025-11-14,26090,1,1,Pending,Low,77,Inactive
+Sahu Bartan,Bharwara,Chandan,12800,Jan,2026-1-23,8000,Dec,2025-12-25,4800,1,1,Pending,Low,36,Active
+Sana Electronics,Madhepur,Chandan,67680,Jan,2026-1-29,9000,Dec,2025-12-21,58680,1,1,Pending,Medium,40,Active
+Sanjeev Hub,Muzaffarpur Road More,Vivek,60000,Nov,2025-11-23,10000,Jan,2026-1-15,50000,5,2,Pending,Medium,15,Active
+Sanjeev Ji Store,Beta Road,Gandhi Jee,1548030,Nov,2025-11-19,1180420,Nov,2025-11-10,367610,6,3,Pending,Critical,81,Inactive
+Saraswati Care,Jale,Tiwari Jee,1930390,Dec,2025-12-23,1801460,Dec,2025-12-1,128930,2,4,Pending,High,60,Moderate
+Saraswati Gallery,South Paithan Kabai,Gagloo Mishra,1186650,Jan,2026-1-17,835910,Dec,2025-12-18,350740,6,2,Pending,Critical,43,Active
+Saraswati Mobile,Main Pindaruch,Ajay,1516010,Dec,2025-12-22,1376050,Dec,2025-12-18,139960,5,1,Pending,High,43,Active
+Saraswati Watch,"Lohat,  Bank",Chandan,15000,Jan,2026-1-21,12000,Nov,2025-11-18,3000,1,1,Pending,Low,73,Moderate
+Shayam Electronics,Kusheshwar,Vivek,565670,Dec,2025-12-3,450000,Nov,2025-11-10,115670,4,6,Pending,High,81,Inactive
+Shiv Shakti Furniture,Tatuaar,Gagloo Mishra,45000,Jan,2026-1-27,8710,Dec,2025-12-19,36290,1,3,Pending,Medium,42,Active
+Shivam,Saharghat,Chandan,230000,Dec,2025-12-4,65000,Dec,2025-12-1,165000,4,1,Pending,High,60,Moderate
+Shree Gallery,Pandaul,Chandan,15190,Nov,2025-11-14,10000,Jan,2026-1-9,5190,3,4,Pending,Low,21,Active
+Shri Ram Electronics,Supaul,Vivek,129000,Nov,2025-11-13,120000,Jan,2026-1-29,9000,4,4,Pending,Low,1,Active
+Shri Sai Mobile,Singhwara,Chandan,10000,Jan,2026-1-8,2500,Nov,2025-11-24,7500,2,2,Pending,Low,67,Moderate
+Shyam Centre,Bhowara Naka,Tiwari Jee,2300880,Jan,2026-1-15,1970530,Jan,2026-1-24,330350,2,1,Pending,Very High,6,Active
+Shyam Communication,Supaul Bazar Chowk,Gagloo Mishra,1006280,Nov,2025-11-24,669480,Dec,2025-12-29,336800,7,3,Pending,Very High,32,Active
+Shyam Mobile,Jhanjharpur,Gagloo Mishra,666570,Nov,2025-11-16,200000,Jan,2026-1-13,466570,4,3,Pending,Critical,17,Active
+Siddhivinayak Communication,New Benipatti,Tiwari Jee,2144640,Dec,2025-12-2,1899680,Jan,2026-1-5,244960,1,4,Pending,Very High,25,Active
+Siddhivinayak Electronics,West Hayaghat,Vijay Jha,1696110,Dec,2025-12-15,1497430,Jan,2026-1-9,198680,1,2,Pending,High,21,Active
+Siddhivinayak Thakur Point,Alinagar Ward 15,Vivek,1256580,Jan,2026-1-4,1091110,Dec,2025-12-9,165470,4,2,Pending,High,52,Moderate
+Siddhivinayak Thakur Store,South Khutauna,Tiwari Jee,2337540,Jan,2026-1-27,2018910,Nov,2025-11-25,318630,2,3,Pending,Very High,66,Moderate
+Sri Care,Saurath Market,Tiwari Jee,1337040,Dec,2025-12-6,1069310,Dec,2025-12-5,267730,3,2,Pending,Very High,56,Moderate
+Sri Communication,Old Kathalbari,Vivek,1954030,Jan,2026-1-10,1871480,Jan,2026-1-19,82550,5,2,Pending,Medium,11,Active
+Sri Hub,Jhanjharpur,Ajay,1803480,Nov,2025-11-14,1731870,Jan,2026-1-13,71610,6,3,Pending,Medium,17,Active
+Sri Telecom,Ujan Ward 5,Ajay,12570,Dec,2025-12-1,10000,Dec,2025-12-28,2570,6,2,Pending,Low,33,Active
+Sri World,Babubarhi Ghat,Tiwari Jee,2329060,Nov,2025-11-19,2233130,Dec,2025-12-27,95930,2,2,Pending,Medium,34,Active
+Sufiyan,Alinagar,Vivek,65670,Nov,2025-11-13,24000,Nov,2025-11-15,41670,0,4,Pending,Medium,76,Inactive
+Sumit Ji Centre,Main Saurath,Tiwari Jee,1082080,Nov,2025-11-11,972330,Dec,2025-12-20,109750,1,1,Pending,High,41,Active
+Sumit Telecom,"Baheri, Darbhanga",Vijay Jha,10400,Jan,2026-1-4,7000,Jan,2026-1-10,3400,4,1,Pending,Low,20,Active
+Sumit Thakur Hub,Main Kishanpur,Ajay,22480,Nov,2025-11-14,19720,Nov,2025-11-25,2760,4,2,Pending,Low,66,Moderate
+Sumit Zone,Bharwara Ward 1,Vijay Jha,12100,Dec,2025-12-3,10340,Jan,2026-1-3,1760,1,2,Pending,Low,27,Active
+Suresh Centre,Donar,Tiwari Jee,2273980,Jan,2026-1-13,2122050,Dec,2025-12-21,151930,9,3,Pending,High,40,Active
+Suresh Store,New Station Road,Ajay,1284670,Jan,2026-1-8,859040,Nov,2025-11-15,425630,3,4,Pending,Critical,76,Inactive
+Surya General Store,Benipatti,Ajay,69540,Dec,2025-12-8,20000,Dec,2025-12-12,49540,1,1,Pending,Medium,49,Moderate
+Tirhut Point,Paithan Kabai Ward 6,Vijay Jha,1044170,Jan,2026-1-15,741760,Dec,2025-12-10,302410,3,2,Pending,Very High,51,Moderate
+Tirhut Watch,Bharwara Naka,Vivek,2117130,Jan,2026-1-25,2020960,Nov,2025-11-21,96170,2,2,Pending,Medium,70,Moderate
+Ugna,Mirjapur,Vijay Jha,38700,Jan,2026-1-2,18500,Dec,2025-12-24,20200,1,2,Pending,Low,37,Active
+Vatika,Supaul,Vivek,12570,Dec,2025-12-2,5500,Jan,2026-1-22,7070,1,4,Pending,Low,8,Active
+Vc Cooler Zahid,Mirjapur,Vijay Jha,65670,Dec,2025-12-29,37000,Jan,2026-1-29,28670,1,4,Pending,Low,1,Active
+Vidyapati Connect,Harlakhi Ward 10,Vivek,2218020,Dec,2025-12-21,2002780,Jan,2026-1-21,215240,1,3,Pending,Very High,9,Active
+Vidyapati Point,South Urdu Bazar,Tiwari Jee,19720,Dec,2025-12-5,16860,Nov,2025-11-26,2860,6,4,Pending,Low,65,Moderate
+Vidyapati Shop,Hospital Road Ward 5,Chandan,12240,Jan,2026-1-27,9860,Nov,2025-11-13,2380,5,1,Pending,Low,78,Inactive
+Vidyapati Vision,West Kadirabad,Chandan,2437020,Dec,2025-12-22,2292770,Dec,2025-12-11,144250,5,2,Pending,High,50,Moderate
+Vijendra,Babubarhi,Vijay Jha,79700,Jan,2026-1-5,60000,Dec,2025-12-21,19700,2,1,Pending,Low,40,Active
+Vikash Care,"Rajnagar, Darbhanga",Vivek,2352800,Dec,2025-12-9,2277100,Nov,2025-11-30,75700,4,3,Pending,Medium,61,Moderate
+Vikash Mishra Sales,Benipur Ward 12,Gandhi Jee,1698760,Dec,2025-12-28,1421160,Jan,2026-1-2,277600,2,3,Pending,Very High,28,Active
+Vikash Point,Alinagar,Tiwari Jee,2042170,Dec,2025-12-22,1587080,Jan,2026-1-27,455090,3,4,Pending,Critical,3,Active
+Vikash Telecom,Bisfi Ward 7,Gandhi Jee,1232910,Dec,2025-12-28,1031230,Jan,2026-1-2,201680,6,4,Pending,Very High,28,Active
+Vinayak Agency Agency,"Mirzapur, Darbhanga",Vivek,20220,Jan,2026-1-22,16750,Dec,2025-12-31,3470,4,2,Pending,Low,30,Active
+Vivek Communication,Tardih,Vijay Jha,78790,Jan,2026-1-16,24000,Dec,2025-12-4,54790,2,1,Pending,Medium,57,Moderate
