@@ -1,0 +1,169 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "receivables_table",
+  "position": {
+    "x": 20,
+    "y": 700,
+    "z": 2500,
+    "width": 1240,
+    "height": 20,
+    "tabOrder": 2500
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Client Name"
+                }
+              },
+              "queryRef": "CreditData.Client Name",
+              "nativeQueryRef": "Client Name",
+              "active": true
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Team"
+                }
+              },
+              "queryRef": "CreditData.Team",
+              "nativeQueryRef": "Team",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Total Sales"
+                }
+              },
+              "queryRef": "CreditData.Total Sales",
+              "nativeQueryRef": "Total Sales",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Total Payments"
+                }
+              },
+              "queryRef": "CreditData.Total Payments",
+              "nativeQueryRef": "Total Payments",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Total Due"
+                }
+              },
+              "queryRef": "CreditData.Total Due",
+              "nativeQueryRef": "Total Due",
+              "active": true
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Credit Risk"
+                }
+              },
+              "queryRef": "CreditData.Credit Risk",
+              "nativeQueryRef": "Credit Risk",
+              "active": true
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Last Payment Date"
+                }
+              },
+              "queryRef": "CreditData.Last Payment Date",
+              "nativeQueryRef": "Last Payment Date",
+              "active": true
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Days Since Last Collection"
+                }
+              },
+              "queryRef": "CreditData.Days Since Last Collection",
+              "nativeQueryRef": "Days Since Last Collection",
+              "active": true
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "\"Receivables Detail\""
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "filterConfig": {
+    "filters": []
+  }
+}

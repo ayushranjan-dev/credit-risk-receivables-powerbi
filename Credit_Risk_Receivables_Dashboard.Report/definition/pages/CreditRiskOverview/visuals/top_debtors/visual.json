@@ -1,0 +1,154 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "top_debtors",
+  "position": {
+    "x": 540,
+    "y": 505,
+    "z": 2500,
+    "width": 840,
+    "height": 250,
+    "tabOrder": 2500
+  },
+  "visual": {
+    "visualType": "tableEx",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Client Name"
+                }
+              },
+              "queryRef": "CreditData.Client Name",
+              "nativeQueryRef": "Client Name",
+              "active": true
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Team"
+                }
+              },
+              "queryRef": "CreditData.Team",
+              "nativeQueryRef": "Team",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Total Sales"
+                }
+              },
+              "queryRef": "CreditData.Total Sales",
+              "nativeQueryRef": "Total Sales",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Total Payments"
+                }
+              },
+              "queryRef": "CreditData.Total Payments",
+              "nativeQueryRef": "Total Payments",
+              "active": true
+            },
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Top 10 Due"
+                }
+              },
+              "queryRef": "CreditData.Top 10 Due",
+              "nativeQueryRef": "Top 10 Due",
+              "active": true
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Credit Risk"
+                }
+              },
+              "queryRef": "CreditData.Credit Risk",
+              "nativeQueryRef": "Credit Risk",
+              "active": true
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Recency Status"
+                }
+              },
+              "queryRef": "CreditData.Recency Status",
+              "nativeQueryRef": "Recency Status",
+              "active": true
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "\"Top 10 Debtors by Outstanding Due\""
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "filterConfig": {
+    "filters": []
+  }
+}

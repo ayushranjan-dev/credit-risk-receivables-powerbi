@@ -1,0 +1,83 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "credit_risk_due",
+  "position": {
+    "x": 720,
+    "y": 215,
+    "z": 2200,
+    "width": 340,
+    "height": 270,
+    "tabOrder": 2200
+  },
+  "visual": {
+    "visualType": "donutChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Credit Risk"
+                }
+              },
+              "queryRef": "CreditData.Credit Risk",
+              "nativeQueryRef": "Credit Risk",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Risk Exposure"
+                }
+              },
+              "queryRef": "CreditData.Risk Exposure",
+              "nativeQueryRef": "Risk Exposure",
+              "active": true
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "\"Outstanding Exposure by Credit Risk\""
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "filterConfig": {
+    "filters": []
+  }
+}

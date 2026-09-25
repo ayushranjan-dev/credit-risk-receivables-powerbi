@@ -1,0 +1,83 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.7.0/schema.json",
+  "name": "recency_donut",
+  "position": {
+    "x": 20,
+    "y": 505,
+    "z": 2400,
+    "width": 500,
+    "height": 250,
+    "tabOrder": 2400
+  },
+  "visual": {
+    "visualType": "donutChart",
+    "query": {
+      "queryState": {
+        "Category": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Collection Ageing Bucket"
+                }
+              },
+              "queryRef": "CreditData.Collection Ageing Bucket",
+              "nativeQueryRef": "Collection Ageing Bucket",
+              "active": true
+            }
+          ]
+        },
+        "Y": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "CreditData"
+                    }
+                  },
+                  "Property": "Total Due"
+                }
+              },
+              "queryRef": "CreditData.Total Due",
+              "nativeQueryRef": "Total Due",
+              "active": true
+            }
+          ]
+        }
+      }
+    },
+    "drillFilterOtherVisuals": true,
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "text": {
+              "expr": {
+                "Literal": {
+                  "Value": "\"Outstanding Due by Collection Ageing\""
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "filterConfig": {
+    "filters": []
+  }
+}
