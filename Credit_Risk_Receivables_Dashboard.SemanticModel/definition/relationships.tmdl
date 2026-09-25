@@ -1,0 +1,9 @@
+relationship rel_SaleDate_Date
+	fromColumn: CreditData.'Last Sale Date'
+	toColumn: DateTable.Date
+	isActive: false
+
+relationship rel_PaymentDate_Date
+	fromColumn: CreditData.'Last Payment Date'
+	toColumn: DateTable.Date
+	isActive: false
