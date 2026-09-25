@@ -75,3 +75,16 @@ Provides customer-level details including sales, payments, outstanding dues, cre
 ├── assets/
 └── powerbi/
     └── Credit_Risk_Receivables_Dashboard/
+```
+
+## Dashboard Preview
+<img width="1536" height="1024" alt="dashboard" src="https://github.com/user-attachments/assets/97a5c172-2301-48ef-b76c-b6a343792930" />
+
+
+## Dataset
+
+The project contains receivables data covering 200 customers, including sales, payments, outstanding balances, customer teams, credit risk, payment frequency, and recency information.
+
+## Outcome
+
+The dashboard provides a consolidated view of receivables performance and customer credit exposure, helping identify outstanding balances, collection patterns, and customers requiring attention.
